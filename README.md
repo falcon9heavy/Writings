@@ -1,4 +1,4 @@
 # cyber-docs
-papers i write about cyber realm
+Papers or blogs I've authored on a variety of topics.
 
-i was born in he back sreets of exton pa, a town known for little league baseball and donuts in that order.
+To code or not to code: A guide on writing custom applications using for tcex3 environment of SOCs and Threat Intelligence teams 
