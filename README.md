@@ -11,3 +11,4 @@
 
 -> Commercial Space System Security Guidelines - contributed section 7 related to how space organizations should think about threat intelligence in the context of their mission critical operations
 
+-> Building a Threat Library: This is a general guide on the key steps that organizations should take when thinking through how to establish a threat library for their security practice.  It's based on working with dozens of CTI teams in establishing at threat intel system of record.
