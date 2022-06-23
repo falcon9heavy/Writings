@@ -1,5 +1,6 @@
 # Writings: Plans, papers, blogs, talks on TI and SOC related topics.
 
+-> Event Prioritization Guide: This guide describes how security teams can leverage a TIP and SOAR to reduce the number of false positives they need to chase down by leveraging automation to prioritize events produced by SIEMS.
 
 -> Link to AusCert 2019 Plenary talk on Threat Intel https://www.youtube.com/watch?v=r1dLxE_B1qo
 
